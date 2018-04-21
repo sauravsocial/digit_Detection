@@ -13,3 +13,16 @@ Step 2 - Enter the required digit to be detected in the array index "d=xtrain[#]
 Step 3 - Save the code and run it on the required python console.
 
 
+Dependencies -
+
+1.  Python 3.5
+
+2.  numpy-1.14.2 
+
+3.  pandas-0.17.1
+
+4.  scikit-learn-0.19b2
+
+
+
+
